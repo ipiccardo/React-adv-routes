@@ -5,3 +5,4 @@ export const LazyPge3 = () => {
   )
 }
 
+export default LazyPge3
